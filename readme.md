@@ -1,3 +1,4 @@
 # Practica Poo y Tdd
 
-creando un funcion que simule un calendario
+### Calendario Simulado en Python
+Este programa tiene como objetivo simular un calendario básico utilizando Python.
